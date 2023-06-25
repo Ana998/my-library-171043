@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="welcome">Welcome to My Library</string>
+    <string name="login">Login</string>
+    <string name="skip">Continue without login</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_account">Don\'t have an account?<b> Sign Up</b></string>
+    <string name="create_new_account">Create new account</string>
+    <string name="register">Register</string>
+    <string name="dashboard_user">Dashboard user</string>
+    <string name="dashboard_admin">Dashboard admin</string>
+    <string name="add_category">+ Add Category</string>
+    <string name="add_a_new_category">Add a new Category</string>
+    <string name="category_title">Category title</string>
+    <string name="submit">Submit</string>
+    <string name="search">Search</string>
+    <string name="add_a_new_book">Add a new book</string>
+    <string name="book_title">Book title</string>
+    <string name="book_description">Book description</string>
+    <string name="my_rating">My rating</string>
+    <string name="books">Books</string>
+    <string name="category">Category</string>
+    <string name="rating">Rating</string>
+    <string name="edit_book">Edit book</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="book_details">Book details</string>
+</resources>

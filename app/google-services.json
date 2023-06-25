@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571475394453",
+    "firebase_url": "https://my-library-86778-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-library-86778",
+    "storage_bucket": "my-library-86778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571475394453:android:2b5d11d977536f5bc9009c",
+        "android_client_info": {
+          "package_name": "mk.ukim.finki.mylibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571475394453-qdrmvvb4mq1ovru9beqpaqipdrg06qj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0Tld3ExhJwkfxRzX2wJAfVjiEkKXuQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571475394453-qdrmvvb4mq1ovru9beqpaqipdrg06qj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
